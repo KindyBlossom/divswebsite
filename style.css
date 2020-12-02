@@ -204,6 +204,7 @@ h6{
 }
 #team i{
   color: var(--secondary-color);
+ 
 }
 #team i:hover{
   color: var(--primary-color);
@@ -233,10 +234,12 @@ h6{
 .form-group{
   width: 50%;
   margin: auto;
+  max-width: 500px;
  }
  .form-button{
   width: 50%;
   margin: auto;
+  max-width: 500px;
   }
   .btn-primary{
     background-color: var(--primary-color)!important;
